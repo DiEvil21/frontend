@@ -1,0 +1,235 @@
+html,body {
+	height: 100%;
+	width: 100%
+
+}
+.col-lg-3 {
+	padding: 0 0 0 0;
+}
+
+.header {
+	padding: 0 0 0 0;
+
+}
+.container{
+	border: none;
+}
+.container-fluid {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+.contacts {
+	background-color: #ba0000;
+
+}
+.contacts-in {
+	width: 1170px;
+	text-align: center;
+}
+.contacts button{
+	background-color: #ba0000;
+	border: none;
+}
+.contacts button:hover{
+	background-color: #ba2a00;
+
+}
+
+
+.center .btn{
+	float: right;
+}
+.header-menu {
+	background-color: #ffcc00;
+}
+.search .btn {
+	background-color: #ba0000;
+	border-color: #ba0000;
+	border-radius:50%;
+	margin-top: 30px;
+	color: white;
+	float: right;
+}
+
+.header-menu li a {
+	color: #ba0000;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	border-bottom: solid;
+	border-color: #ffcc00;
+
+}
+.header-menu li a.active {
+	font-weight: bold;
+	border-bottom: solid;
+	border-color: #ba0000;
+}
+.header-menu li a:hover{
+	background-color: #ffcc00;
+	border-bottom: solid;
+	border-color: #ba0000;
+	font-weight: bold;
+}
+
+
+.navbar{
+	margin: auto;
+	margin-left: 15%;
+}
+
+
+.header-menu img {
+	margin-top: 40px;
+	
+	width: 125px;
+
+}
+
+h1 {
+	font-weight: bold;
+	color: white;
+}
+.content {
+	
+	height: 480px;
+}
+.content-back{
+	background: url('../img/background.png') ;
+
+  	
+}
+.background-gradient {
+	background: linear-gradient(40deg, red, rgba(0, 0, 0, 0));
+}
+.content h1 {
+	font-size: 4em;
+	letter-spacing: 6px;
+	width: 400px;
+	margin-top: 180px;
+}
+hr {
+	border: 2px solid #ffcc00;
+	border-radius: 90px;
+	width: 100px;
+	float: left;
+	margin-right: 1000px;
+}
+.content p {
+	color: #ffcc00;
+	width: 700px;
+	font-size: 1.3em;
+}
+.content h4 {
+	color: white;
+	margin: 40px 0 40px 0;
+}
+.content span {
+	color: #ffcc00;
+	margin: 0 25px 0 25px;
+}
+.content button {
+	letter-spacing: 1px;
+	background-color: #ffcc00;
+	border-color: #ffcc00;
+	font-size: 0.8em;
+	font-weight: bold;
+	border-radius: 20px;
+	padding: 8px 15px 8px 15px;
+	margin-right: 10px;
+}
+.content button:hover{
+	color: #d14400;
+	background-color: #ffcc00;
+	border-color: #ffcc00;
+}
+.content2-back {
+	background-color: white;
+}
+.content2 h2 {
+	color: #ba0000;
+	font-weight: bold;
+	letter-spacing: 1px;
+	margin-top: 100px;
+	margin-bottom: 90px;
+}
+.content2 {
+	margin-bottom: 90px;
+}
+.services a {
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+}
+.services a:hover{
+	text-decoration: underline;
+	font-weight: bold;
+	color: black;
+}
+.red {
+	color: #ba0000;
+}
+.headServices{
+	color: #ba0000;
+	font-weight: bold;
+	letter-spacing: 1px;
+	margin-top: 10px;
+}
+.headform {
+	
+	font-weight: bold;
+	font-size: 1.3em;
+	letter-spacing: 1px;
+}
+.form {
+	background-color: #ba0000;
+	height: 100%;
+}
+
+.form hr {
+	border-width: 1px;
+	width: 60px;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+.form p {
+	color: white;
+	margin: 20px 20px 20px 20px;
+
+}
+.form .input-group {
+	margin: 20px 20px 20px 20px;
+}
+.form .input-group .form-control {
+	border-radius: 0;
+	border: none;
+	background-color: #9d0000;
+	color: white;
+	font-size: 1.1em;
+	letter-spacing: 1px;
+}
+.form .input-group .form-control::placeholder{
+	color: white;
+}
+.form .input-group .btn{
+	border-radius: 0;
+	border: none;
+	background-color: #ffcc00;
+	color: #ba0000;
+
+
+	
+}
+.form .btn2 {
+	background-color: #ffcc00;
+	border-radius: 90px;
+	margin: 0px 20px 20px 20px;
+	padding: 10px 30px 10px 30px;
+	font-size: 0.8em;
+	letter-spacing: 2px;
+	font-weight: bold;
+	color: #ba0000;
+}
+
+
+
