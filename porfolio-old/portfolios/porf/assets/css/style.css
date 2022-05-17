@@ -1,0 +1,35 @@
+.card {
+	
+	margin-right: 1%;
+}
+.abouttext {
+	color: #333;
+	font-size: 18px;
+	font-size: 1.125rem;
+	font-weight: 100;
+	width: 80%;
+	margin: 0 auto 60px;
+	text-align: center;
+	font: 400 16px/1.6 "MuseoSans", Arial, Helvetica, sans-serif;
+}
+.back-image {
+	/*background-image: url("../img/2.png");*/
+	padding: 70px 0 70px;
+	text-align: center;
+	color: #fff;
+	line-height: 1;
+	
+	background: url("../img/head.png") no-repeat fixed 50% 0;
+	
+	background-size: auto;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	opacity:0.8;
+	-moz-opacity:0.8;
+	filter: alpha(opacity=80) black;
+	-khtml-opacity: 0.8;
+	background-color:#000;
+	
+}

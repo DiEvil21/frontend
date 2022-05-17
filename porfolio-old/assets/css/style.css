@@ -1,0 +1,122 @@
+
+.header a, a:hover{
+	color: #f0ad4e;
+	text-decoration: none;
+}
+.header h1 {
+	letter-spacing: 15px;
+	font-size: 300%;
+	
+}
+.header p {
+	color: white !important;
+	font-size: 90%;
+	letter-spacing: 3px;
+
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+    color: #fff;
+    background-color: #346270;
+}
+.nav-pills > li > a {
+	color: #fff;
+	
+}
+.nav-pills>li>a:hover {
+	background-color: #346270;
+}
+.navbar-inverse {
+    padding: 1%;
+    border-radius: 0;
+    margin-bottom: 0;
+    height: 10%;
+}
+
+@media (max-width:  767px) {
+	.nav-pills>li{
+		float: none;
+	}
+	.nav-pills {
+		text-align: center;
+	}
+	.header h1 {
+		letter-spacing: 5px;
+		font-size: 280%;
+	}
+	.header {
+		text-align: center;
+	}
+}
+/*---------контент ----------------*/
+html,body {
+	height: 100%;
+	background: linear-gradient( #2b435b,#50768b,#6891a5);
+}
+.panel {
+	margin-top: 30px;
+}
+/* -----------контент главной----------- */
+.headLeft {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.headLeft h1 {
+	background-color: #346270;
+	text-align: center;
+	color: white;
+	padding: 10px 10% 10px 10%;
+	margin-top: 100px;
+}
+
+.background {
+	
+	margin-bottom: 0px !important;
+	background: no-repeat center center;
+  	background-attachment: scroll;
+  	background-image: none;
+  	background-size: auto;
+	background-attachment: scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+	margin-bottom: 50px;
+	height: 100%;
+	background-image: url('../img/background.jpg');
+	
+	
+}
+h3 {
+	color: white;
+}
+.carousel {
+	margin: 20px;
+}
+
+.contactsBtn {
+	display: block;
+	position: fixed;
+	bottom: 2%;
+	left: 2%;
+	z-index: 99999;
+	background-color: #d9edf7;
+	border: none;
+	padding: 10px 20px;
+	
+
+}
+.contactsBtn:hover {
+	background-color: orange;
+}
+.contactsBtn a:hover {
+	color: orange;
+}
+.clwhite {
+	color: white;
+	margin-top: 30px;
+	font-size: 1.4em;
+}
+.panel {
+	min-height: 300px;
+}

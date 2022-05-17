@@ -1,0 +1,71 @@
+.info_film_page {
+	margin-top: 2%;
+	margin-bottom: 4%;
+}
+.info_film_page .label {
+	font-size: 1.2em;
+}
+.info_film_page .value {
+	font-size: 1em;
+	color: #49945a;
+	margin-right: 3%;
+}
+.info_film {
+	width: 560px;
+	
+	text-align: left;
+	margin-right: 25px;
+	height: 230px;
+	margin-bottom: 5%;
+
+}
+
+.film_text {
+	text-align: left;
+	display: flex;
+}
+.film_text img{
+	margin-right: 10px;
+}
+.film_text p {
+	width: 60%;
+
+}
+.reviews {
+	border-radius: 2px;
+	margin-bottom: 4%;
+	font-size: 0.9em;
+	
+}
+.send_contact textarea {
+	width: 620px;
+	margin-bottom: 10px;
+	height: 150px;
+}
+.send_contact input {
+	width: 604px;
+	margin-bottom: 15px;
+}
+.review_name {
+	background-color: darkslateblue;
+	padding: 1%;
+	color: white;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.reviews .review_text {
+	padding: 1.5%;
+} 
+.button {
+	float: left;
+	background-color: #7268ad;
+	padding: 1%;
+	border-radius: 5px;
+	margin: 5px 0 10px 0;
+	padding: 2%;
+}
+.button a {
+	text-decoration: none;
+	color: white;
+	font-size: 0.9em;
+}

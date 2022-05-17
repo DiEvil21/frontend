@@ -1,0 +1,24 @@
+
+
+table {
+	width: 100%;
+	border: solid 1px #f4f4f4;
+}
+td {
+	padding: 2%;
+	border: solid 1px #f4f4f4;
+}
+td img {
+	width: 60px;
+	vertical-align: middle;
+	
+}
+.rating {
+	font-weight: bolt;
+	font-size: bolt;
+}
+.center {
+	text-align: center;
+}
+
+

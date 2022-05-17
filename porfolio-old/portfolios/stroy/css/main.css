@@ -1,0 +1,94 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	/*background-color: black;*/
+	background-image: url("../img/background.jpg");
+}
+header {
+	margin: 0px;
+	background-color: gray;
+	padding-top: 30px;		
+}
+
+p {
+	color: white;
+	font-size: 1.6em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+.menu h1 {
+	color: white;
+}
+
+.container {
+	width: 1170px;
+	margin: 0 auto;
+	margin-bottom: 40px;
+}
+.menu {
+	display: flex;
+}
+ul, li {
+	display: block;
+}
+a {
+	text-decoration: none;
+	color: white;
+
+}
+a:hover {
+	color: yellow;
+
+	
+}
+.tel {
+	margin-left: auto;
+	font-size: 1.5em;
+	padding-top: 4px;
+	
+	
+}
+
+
+.desc-left {
+	margin-right: 40px;
+}
+.examples {
+	margin-top: 47px;
+	display: flex;
+	text-align: justify;
+	
+}
+.examples img{
+	margin-left: auto;
+	height: 400px;
+	
+}
+h2{
+	padding: 10px;
+	color: white;
+}
+.moreex {
+	margin-top: 44px;
+	text-align: justify;
+	display: flex;
+}
+.moreex img{
+	height: 400px;
+	margin-right: 20px;
+	transition: all 0.5s ease;
+}
+img {
+	border: 3px solid gray;
+	transition: all 0.5s ease;
+}
+img:hover {
+	box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+	transform: scale(1.1);
+}
+
