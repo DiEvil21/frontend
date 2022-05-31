@@ -1,0 +1,44 @@
+.container {
+	max-width: 1080px;
+	float: none;
+	margin-top: 20px;
+	
+}
+.lab {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.hero {
+	border: 1px solid gray;
+	padding: 20px;
+	margin-top: 20px;
+	
+	
+}
+.navp {
+	display: flex;
+	justify-content: center;
+}
+.page1 {
+	margin-top: 50px;
+}
+
+.hero h2 {
+	color: gray;
+}
+.grath {
+	background-color: whitesmoke;
+	height: 100%;
+}
+.myGrath {
+	width: 100%;
+}
+.myGrath canvas {
+	width: 100% !important;
+}
+.hiddenPage {
+	display: none;
+}
+li {
+	cursor: pointer;
+}
